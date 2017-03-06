@@ -1,0 +1,65 @@
+.messages{
+  margin-left: 20%;
+  margin: 50 auto;
+}
+
+.messageForm{
+  background-color: #ddd;
+  max-width: 500px;
+  min-height: 10px;
+  margin-top: 2%;
+  border-bottom: 1px solid appworkspace;
+  line-height: 30px;
+}
+
+.message-row {
+  max-width: 500px;
+  padding: 10px 0;
+  border: 0.5px solid #ccc;
+}
+
+.message{
+  max-width: 500px;
+  text-align: left;
+}
+
+.messagesSearch{
+  max-width: 500px;
+  font-size: 18px;
+  height: 40px;
+  padding: 5px;
+  line-height: 1.33px;
+  border-color: #ececec;
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+.message-icon img {
+  border-radius: 10px;
+}
+
+#filtersubmit {
+	max-width: 500px;
+    position: relative;
+    z-index: 1;
+    left: 470px;
+    top: -25px;
+    color: #7B7B7B;
+    cursor:pointer;
+}
+
+textarea{
+  margin-bottom: 10px;
+}
+
+.btn{
+  margin-bottom: 7px;
+}
+
+messagesSearch.input{
+  width: 100%;
+}
+
+input{
+  border-radius: 4px;
+}
