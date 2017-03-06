@@ -3,7 +3,7 @@ var app = express()
 var bodyParser = require('body-parser')
 var redis = require("redis")
 
-var client = redis.createClient({host:"192.168.152.129", port:6379});
+var client = redis.createClient({host:"127.0.0.1", port:6379});
 
 app.set('view engine', 'ejs');
 
