@@ -2,8 +2,8 @@
 
 ## Installation
 
-npm install
-yum install redis-server OR brew install redis (for mac)
+1.npm install
+2.yum install redis-server OR brew install redis (for mac)
 
 ## Start The Server
 
